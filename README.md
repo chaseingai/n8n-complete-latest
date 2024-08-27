@@ -1,6 +1,6 @@
 # n8n: Self-Hosted Workflow Automation
 
-This template deploys a self-hosted instance of [n8n]([https://n8n.io/](https://n8n.partnerlinks.io/chasestarnes)), a powerful workflow automation tool. It leverages a PostgreSQL database for robust data storage and management.
+This template deploys a self-hosted instance of [n8n]([[https://n8n.io/](https://n8n.partnerlinks.io/chasestarnes)](n8n)), a powerful workflow automation tool. It leverages a PostgreSQL database for robust data storage and management.
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)
 
